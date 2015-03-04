@@ -25,7 +25,8 @@ Simply the easiest way to add a topbar to your website. This plugin adds a simpl
 == Screenshots ==
 
 1. Ciusan Notification Bar on frontend site.
-2. All settings on WP Dashboard.
+2. Hidden Ciusan Notification Bar on frontend site.
+3. All settings on WP Dashboard.
 
 == Changelog ==
 
