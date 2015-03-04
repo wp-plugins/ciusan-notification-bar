@@ -14,7 +14,7 @@ Showing notification bar on header.
 
 Simply the easiest way to add a topbar to your website. This plugin adds a simple and clean notification bar at the top of your website, allowing you to display a nice message to your visitors as well as a custom link.
 
-<a href="http://plugin.ciusan.com/239/ciusan-notification-bar/">Ciusan Notification Bar</a>
+<a href="http://plugin.ciusan.com/"Ciusan Notification Bar</a>
 
 == Installation ==
 
@@ -24,7 +24,8 @@ Simply the easiest way to add a topbar to your website. This plugin adds a simpl
 
 == Screenshots ==
 
-1. All settings on WP Dashboard
+1. Ciusan Notification Bar on frontend site.
+2. All settings on WP Dashboard.
 
 == Changelog ==
 
