@@ -21,8 +21,6 @@ Author URI: http://www.ciusan.com/
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 function CNB_enqueue() {
 	wp_enqueue_style( 'ciusan-notification-bar', plugin_dir_url( __FILE__ ).'assets/css/ciusan-notification-bar.css', false ); 
-
-	wp_enqueue_script( 'ciusan-notification-bar', 'http://ace-subido.github.io/css3-microsoft-metro-buttons/js/jquery-1.8.0.min.js', false );
 	wp_enqueue_script( 'ciusan-notification-bar', plugin_dir_url( __FILE__ ).'assets/js/ciusan-notification-bar.js', false );
 }
 add_action( 'wp_enqueue_scripts', 'CNB_enqueue' );
