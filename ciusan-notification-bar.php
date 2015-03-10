@@ -4,7 +4,7 @@ Plugin Name: Ciusan Notification Bar
 Plugin URI: http://plugin.ciusan.com/
 Description: Showing information or notes on top bar.
 Author: Dannie Herdyawan
-Version: 1.0
+Version: 1.1
 Author URI: http://www.ciusan.com/
 */
 

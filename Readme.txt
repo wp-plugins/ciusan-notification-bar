@@ -4,7 +4,7 @@ Donate link: http://www.ciusan.com/submit-donation/
 Tags: ciusan, top, notification, bar, fixed, info, information. notice, notes
 Requires at least: 3.2
 Tested up to: 4.1.1
-Stable tag: 1.0
+Stable tag: 1.1
 
 Showing notification bar on header.
 
