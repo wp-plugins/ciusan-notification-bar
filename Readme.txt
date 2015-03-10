@@ -30,5 +30,8 @@ Simply the easiest way to add a topbar to your website. This plugin adds a simpl
 
 == Changelog ==
 
+= 1.1 =
+* Fixed conflict admin settings page slug with other same plugin.
+
 = 1.0 =
 * First release.

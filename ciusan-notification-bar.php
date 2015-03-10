@@ -44,9 +44,9 @@ function cnb_admin__menu(){
 	if(!$main_menu_exists){
 		$ciusan_menu_icon = plugin_dir_url( __FILE__ ).'assets/img/ciusan.png';
 		add_object_page(null, 'Ciusan Plugin', null, 'ciusan-plugin', 'ciusan-plugin', $ciusan_menu_icon);
-		add_submenu_page('ciusan-plugin', 'Submit a Donation', 'Submit a Donation', 0, 'submit_donation', 'ciusan_submit_donation');
+		add_submenu_page('ciusan-plugin', 'Submit a Donation', 'Submit a Donation', 0, 'ciusan-submit-donation', 'ciusan_submit_donation');
 	}
-	add_submenu_page('ciusan-plugin', 'Notification Bar', 'Notification Bar', 1, 'notification_bar','ciusan_notification_Bar');
+	add_submenu_page('ciusan-plugin', 'Notification Bar', 'Notification Bar', 1, 'ciusan-notification-bar','ciusan_notification_bar');
 }
 function cnb_admin_init(){
 	// Create admin menu and page.
