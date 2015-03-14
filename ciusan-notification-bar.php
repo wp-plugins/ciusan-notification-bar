@@ -1,7 +1,7 @@
 <?php 
 /*
 Plugin Name: Ciusan Notification Bar
-Plugin URI: http://plugin.ciusan.com/
+Plugin URI: http://plugin.ciusan.com/239/ciusan-notification-bar/
 Description: Showing information or notes on top bar.
 Author: Dannie Herdyawan
 Version: 1.1
